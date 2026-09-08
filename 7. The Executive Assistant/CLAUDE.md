@@ -19,8 +19,10 @@ Outreach. Everything you do should support finding leads, prepping outreach, and
 Skills live in `.claude/skills/`. Each skill gets its own folder with a `SKILL.md` file.
 Skills are built organically as recurring workflows emerge.
 
+**Built Skills:**
+- Daily leads extraction — `.claude/skills/daily-leads-extraction/SKILL.md`
+
 **Skills to Build:**
-- Daily leads extraction workflow
 - Outreach message drafting and reply handling
 - Appointment setting into calendar
 - Lead research and qualification
